@@ -40,24 +40,11 @@ I'm a Full-Stack Developer and love creating web applications and working with t
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jaysapariya.visitor-badge)
 
 <p float="left">
-  <a href="https://github.com/yourusername/ahrokimpromtsentr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaysapariya&repo=ahrokimpromtsentr" height="120" />
+  <a href="https://github.com/jaysapariya/test-repos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaysapariya&repo=test-repos" height="120" />
   </a>
-  <a href="https://github.com/yourusername/backend_agro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaysapariya&repo=backend_agro" height="120" />
-  </a>
-</p>
-<p float="left">
-  <a href="https://github.com/yourusername/admin-panel-agro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaysapariya&repo=admin-panel-agro" height="120" />
-  </a>
-  <a href="https://github.com/yourusername/incode-group-test-back">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=incode-group-test-back" height="120" />
-  </a>
-</p>
-<p float="left">
-  <a href="https://github.com/yourusername/react-party">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaysapariya&repo=react-party" height="120" />
+  <a href="https://github.com/jaysapariya/test-repos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaysapariya&repo=test-repos" height="120" />
   </a>
 </p>
 
