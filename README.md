@@ -37,5 +37,5 @@ I'm a Full-Stack Developer and love creating web applications and working with t
 
 ![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysapariya&theme=blue-green)
 
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jaysapariya.visitor-badge)
 
