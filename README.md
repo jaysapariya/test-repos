@@ -48,5 +48,5 @@ I'm a Full-Stack Developer and love creating web applications and working with t
   </a>
 </p>
 
-![Your GitHub Contributions](https://service-url-that-generates-graph/jaysapariya)
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=jaysapariya)
 
